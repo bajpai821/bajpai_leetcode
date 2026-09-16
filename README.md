@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/0796-rotate-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bajpai821/bajpai_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
