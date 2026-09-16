@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bajpai821/bajpai_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bajpai821/bajpai_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Array
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bajpai821/bajpai_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
