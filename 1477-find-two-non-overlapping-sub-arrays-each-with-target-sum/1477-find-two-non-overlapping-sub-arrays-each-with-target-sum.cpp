@@ -1,33 +1,24 @@
+constexpr int N=1e5, INF=1e9;
+int lens[N];
 class Solution {
 public:
-    int minSumOfLengths(vector<int>& arr, int target) {
-        int n = arr.size();
-        unordered_map<int, int> prefix_sums;
-        prefix_sums[0] = -1; 
-        
-        vector<int> best_at_index(n, INT_MAX);
-        int current_sum = 0;
-        int shortest_so_far = INT_MAX;
-        int ans = INT_MAX;
-        
-        for (int i = 0; i < n; i++) {
-            current_sum += arr[i];
-            prefix_sums[current_sum] = i;
-            
-            int needed_sum = current_sum - target;
-            if (prefix_sums.count(needed_sum)) {
-                int start_idx = prefix_sums[needed_sum];
-                int current_len = i - start_idx;
-                
-                shortest_so_far = min(shortest_so_far, current_len);
-                
-                if (start_idx >= 0 && best_at_index[start_idx] != INT_MAX) {
-                    ans = min(ans, best_at_index[start_idx] + current_len);
-                }
+    static int minSumOfLengths(vector<int>& arr, int target) {
+        const int n=arr.size();
+        int prv=INF, ans=INF, sum=0;
+        for(int l=0, r=0; r<n; r++){
+            sum+=arr[r];
+            for(; sum>target; l++)
+                sum-=arr[l];
+            lens[r]=prv;
+            if (sum==target){
+                int len=r-l+1;
+                if (l>0) 
+                    ans=min(ans, len+lens[l-1]);
+                lens[r]=min(lens[r], len);
             }
-            best_at_index[i] = shortest_so_far;
+            prv=lens[r];
         }
-        
-        return (ans == INT_MAX) ? -1 : ans;
+        return ans>=INF?-1:ans;
+
     }
 };
