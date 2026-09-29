@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/bajpai821/bajpai_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bajpai821/bajpai_leetcode/tree/master/0137-single-number-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/bajpai821/bajpai_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bajpai821/bajpai_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bajpai821/bajpai_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bajpai821/bajpai_leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
