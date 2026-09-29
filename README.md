@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bajpai821/bajpai_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bajpai821/bajpai_leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/bajpai821/bajpai_leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bajpai821/bajpai_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bajpai821/bajpai_leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bajpai821/bajpai_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bajpai821/bajpai_leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bajpai821/bajpai_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bajpai821/bajpai_leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
