@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bajpai821/bajpai_leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/bajpai821/bajpai_leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/bajpai821/bajpai_leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/bajpai821/bajpai_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bajpai821/bajpai_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bajpai821/bajpai_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/bajpai821/bajpai_leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bajpai821/bajpai_leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bajpai821/bajpai_leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/bajpai821/bajpai_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bajpai821/bajpai_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bajpai821/bajpai_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bajpai821/bajpai_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
