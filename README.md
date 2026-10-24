@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/bajpai821/bajpai_leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bajpai821/bajpai_leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bajpai821/bajpai_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/bajpai821/bajpai_leetcode/tree/master/2409-count-days-spent-together) |
 | [2652-sum-multiples](https://github.com/bajpai821/bajpai_leetcode/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bajpai821/bajpai_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bajpai821/bajpai_leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/bajpai821/bajpai_leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [2409-count-days-spent-together](https://github.com/bajpai821/bajpai_leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bajpai821/bajpai_leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/bajpai821/bajpai_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
