@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bajpai821/bajpai_leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bajpai821/bajpai_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bajpai821/bajpai_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bajpai821/bajpai_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bajpai821/bajpai_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bajpai821/bajpai_leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bajpai821/bajpai_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bajpai821/bajpai_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bajpai821/bajpai_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bajpai821/bajpai_leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
